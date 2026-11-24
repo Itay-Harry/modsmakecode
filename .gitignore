@@ -1,0 +1,7 @@
+pxt/
+pxt-arcade/
+pxt-common-packages/
+node_modules/
+built/
+pxt_modules/
+*.log

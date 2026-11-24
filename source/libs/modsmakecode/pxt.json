@@ -1,0 +1,12 @@
+{
+  "name": "modsmakecode",
+  "description": "Clearly labeled optional helper blocks for MakeCode Arcade",
+  "dependencies": {
+    "device": "file:../device"
+  },
+  "files": [
+    "modsmakecode.ts"
+  ],
+  "public": true,
+  "weight": 20
+}

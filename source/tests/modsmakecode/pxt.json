@@ -1,0 +1,10 @@
+{
+    "name": "modsmakecode-test",
+    "dependencies": {
+        "device": "file:../../libs/device",
+        "modsmakecode": "file:../../libs/modsmakecode"
+    },
+    "files": [
+        "main.ts"
+    ]
+}
